@@ -1,0 +1,102 @@
+Brand:
+SAMSUNG
+VIVO
+WALTON
+iPhone 
+INFINIX
+OnePlus
+Xiaomi
+Oppo
+===============================================
+
+SAMSUNG:
+-----------------------
+Model: Samsung-Galaxy-A03
+Price: 10999
+
+Model: Samsung Galaxy Z Fold4
+Price: 25999
+
+Model: Samsung-Galaxy-F23-5G
+Price: 29999
+
+Model: Samsung-Galaxy-A23
+Price: 31499
+
+Model: Samsung-Galaxy-F13
+Price: 25999
+
+Model: Samsung-Galaxy-A03
+Price: 13999
+
+
+Model: Samsung-Galaxy-S22-Plus-image
+Price: 122999
+=====================================================
+
+VIVO:
+---------------------
+Model: Vivo-V25-5G
+Price: 47999
+
+Model: Vivo-V23-5G-image
+Price: 39999
+
+Model: Vivo-Y53s-image
+Price: 20999
+
+Model: Vivo-V21e
+Price: 26999
+
+Model: Vivo-V25e
+Price: 34999
+
+Model: Vivo-X80-5G
+Price: 75999
+
+Model: Vivo-Y01
+Price: 10999
+=====================================================
+
+WALTON:
+---------------------
+Model: Walton-Orbit-Y50
+Price: 12999
+
+
+=====================================================
+
+iPhone :
+---------------------
+Model: Apple-iPhone-14-Pro-Max
+Price: 201599
+
+=====================================================
+
+Infinix-:
+Model: Infinix-Smart-6-Plus
+Price: 10999
+
+=====================================================
+
+OnePlus-:
+Model: OnePlus-Nord-N20-SE 
+Price: 18990
+
+=====================================================
+
+Xiaomi-:
+Model: Xiaomi-Redmi-Note-11
+Price: 19599
+
+Pic : Oppo-F21-Pro.jpg
+Brand : 
+Model: Oppo-F21-Pro.jpg
+Price: 32900
+
+Pic : Realme-Narzo-50.jpg
+Brand : Realme-
+Model: Realme-Narzo-50
+Price: 19999
+
+

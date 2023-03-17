@@ -1,0 +1,157 @@
+C:\Users\Administrator\OneDrive\Desktop\Ado\MobileShop_dd\MobileShop_dd\bin\Debug\MobileShop_dd.exe.config
+C:\Users\Administrator\OneDrive\Desktop\Ado\MobileShop_dd\MobileShop_dd\bin\Debug\MobileShop_dd.exe
+C:\Users\Administrator\OneDrive\Desktop\Ado\MobileShop_dd\MobileShop_dd\bin\Debug\MobileShop_dd.pdb
+C:\Users\Administrator\OneDrive\Desktop\Ado\MobileShop_dd\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\Ado\MobileShop_dd\MobileShop_dd\obj\Debug\MobileShop_dd.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\Desktop\Ado\MobileShop_dd\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\Desktop\Ado\MobileShop_dd\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Ado\MobileShop_dd\MobileShop_dd\obj\Debug\MobileShop_dd.exe
+C:\Users\Administrator\OneDrive\Desktop\Ado\MobileShop_dd\MobileShop_dd\obj\Debug\MobileShop_dd.pdb
+C:\Users\Administrator\OneDrive\Desktop\Ado\MobileShop_dd\MobileShop_dd\obj\Debug\MobileShop_dd.StartPage.resources
+C:\Users\Administrator\OneDrive\Desktop\Ado\MobileShop_dd\MobileShop_dd\bin\Debug\Mobile_ShopDB.mdf
+C:\Users\Administrator\OneDrive\Desktop\Ado\MobileShop_dd\MobileShop_dd\bin\Debug\Mobile_ShopDB_log.ldf
+C:\Users\Administrator\OneDrive\Desktop\Ado\MobileShop_dd\MobileShop_dd\obj\Debug\MobileShop_dd.Brand_Insert.resources
+C:\Users\Administrator\OneDrive\Desktop\Ado\MobileShop_dd\MobileShop_dd\obj\Debug\MobileShop_dd.product_insert.resources
+C:\Users\Administrator\OneDrive\Desktop\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.Brand_Insert.resources
+C:\Users\Administrator\OneDrive\Desktop\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.product_insert.resources
+C:\Users\Administrator\OneDrive\Desktop\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\Desktop\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.StartPage.resources
+C:\Users\Administrator\OneDrive\Desktop\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\Desktop\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.exe
+C:\Users\Administrator\OneDrive\Desktop\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.pdb
+C:\Users\Administrator\OneDrive\Desktop\Project\MobileShop\MobileShop_dd\bin\Debug\MobileShop_dd.exe.config
+C:\Users\Administrator\OneDrive\Desktop\Project\MobileShop\MobileShop_dd\bin\Debug\MobileShop_dd.exe
+C:\Users\Administrator\OneDrive\Desktop\Project\MobileShop\MobileShop_dd\bin\Debug\MobileShop_dd.pdb
+C:\Users\Administrator\OneDrive\Desktop\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.FrmEmployee.resources
+D:\Anas\Project\MobileShop\MobileShop_dd\bin\Debug\MobileShop_dd.exe.config
+D:\Anas\Project\MobileShop\MobileShop_dd\bin\Debug\MobileShop_dd.exe
+D:\Anas\Project\MobileShop\MobileShop_dd\bin\Debug\MobileShop_dd.pdb
+D:\Anas\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.AssemblyReference.cache
+D:\Anas\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.Brand_Insert.resources
+D:\Anas\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.FrmEmployee.resources
+D:\Anas\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.product_insert.resources
+D:\Anas\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.Properties.Resources.resources
+D:\Anas\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.StartPage.resources
+D:\Anas\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.GenerateResource.cache
+D:\Anas\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.CoreCompileInputs.cache
+D:\Anas\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.exe
+D:\Anas\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.pdb
+D:\Anas\Project\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.frmBill.resources
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\MobileShop_dd.exe.config
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\MobileShop_dd.exe
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\MobileShop_dd.pdb
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.Brand_Insert.resources
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.frmBill.resources
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.FrmEmployee.resources
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.product_insert.resources
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.StartPage.resources
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.exe
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.pdb
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.frmMakePayment.resources
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.frmProductEdit.resources
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.frmEmployeeEdit.resources
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\stdole.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.rptProduct.resources
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.CopyComplete
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\MobileShop_dd.exe.config
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\MobileShop_dd.exe
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\MobileShop_dd.pdb
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.Shared.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\ShockwaveFlashObjects.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\stdole.dll
+D:\Anas\MobileShop\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.AssemblyReference.cache
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.Brand_Insert.resources
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.frmBill.resources
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.FrmEmployee.resources
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.frmEmployeeEdit.resources
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.frmMakePayment.resources
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.frmProductEdit.resources
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.product_insert.resources
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.Properties.Resources.resources
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.rptProduct.resources
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.StartPage.resources
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.GenerateResource.cache
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.CoreCompileInputs.cache
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.CopyComplete
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.exe
+D:\Anas\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.pdb
+C:\Users\Administrator\OneDrive\Desktop\MobileShop\MobileShop_dd\obj\Debug\MobileShop_dd.frmBillReport.resources
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\MobileShop_dd.exe.config
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\MobileShop_dd.exe
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\MobileShop_dd.pdb
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\stdole.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.AssemblyReference.cache
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.Brand_Insert.resources
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.frmBill.resources
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.frmBillReport.resources
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.FrmEmployee.resources
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.frmEmployeeEdit.resources
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.frmMakePayment.resources
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.frmProductEdit.resources
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.product_insert.resources
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.Properties.Resources.resources
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.rptProduct.resources
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.StartPage.resources
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.GenerateResource.cache
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.CoreCompileInputs.cache
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.CopyComplete
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.exe
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.pdb
+D:\Projects\Ado.net Project\Ado.net Final Project\1269343\1269343\MobileShop_dd\obj\Debug\MobileShop_dd.csproj.SuggestedBindingRedirects.cache
